@@ -2,7 +2,7 @@
 #!/bin/bash
 
 cat > index.html <<EOF
-<h1>Hello, Prod World! Yay!</h1>
+<h1>Hello, Prod Prod World! Yay!</h1>
 <p>Current DB address: ${db_address}</p>
 <p>Current DB port: ${db_port}</p>
 EOF
